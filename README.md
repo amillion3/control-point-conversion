@@ -5,12 +5,12 @@ This python script will convert and format control points from the data collecto
 This script will also allow for a datum adjustment to be made and for a rod height to be added to the elevation.
 
 
-##Input file format required:
+## Input file format required:
 Unique Number, Northing, Easting, Elevation, Type of Point
 134,247808.131,2211159.261,692.901,XCP/SNG
 
 
-##How to use this glorious script:
+## How to use this glorious script:
 
 1. Create a folder at this specific location:
     C:\Projects\python
